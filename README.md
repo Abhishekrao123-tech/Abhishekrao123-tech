@@ -1,6 +1,6 @@
 <!-- TYPING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Abhishek+Rao;Backend+%26+Systems+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Abhishek+Rao;Backend+%26+Systems+Developer;Building+Scalable+Web+Applications" alt="Typing Banner" />
 </div>
 
 <br />
