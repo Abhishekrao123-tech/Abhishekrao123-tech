@@ -7,9 +7,9 @@
 
 <!-- QUICK INFO DASHBOARD -->
 <div align="center">
-  <a href="https://linkedin.com/in/abhishek-rao-b8531530a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/abhishek-rao-7b168032b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:abhishekraoh410@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
