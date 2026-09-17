@@ -21,7 +21,7 @@
 | 🎓 **Education** | 🚀 **Focus** | 🎯 **Current Endeavors** |
 | :--- | :--- | :--- |
 | **BMSIT&M** — B.E. CSE ('28) | Backend Architecture & Databases | Expanding Node.js/Express ecosystem |
-| **Current CGPA:** 8.94 / 10 | Data Structures & System Design | Web3 DApp & Smart Contract optimization |
+| **Current CGPA:** 8.94 | Data Structures & System Design | Web3 DApp & Smart Contract optimization |
 
 ---
 
