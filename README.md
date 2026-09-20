@@ -4,8 +4,6 @@
 </div>
 
 <br />
-
-<!-- QUICK INFO DASHBOARD -->
 <div align="center">
   <a href="https://linkedin.com/in/abhishek-rao-7b168032b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -50,6 +48,6 @@
 
 ```text
   ┌────────────────────────────────────────────────────────────────────────┐
-  │  ⚡ Active Hackathon Participant & Problem Solver                     │
+  │  ⚡ Active Hackathon Participant & Problem Solver                      │
   │  📈 Active Open-Source Contributor & System Architecture Enthusiast    │
   └────────────────────────────────────────────────────────────────────────┘
