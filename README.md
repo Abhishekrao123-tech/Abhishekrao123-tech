@@ -1,18 +1,21 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7AA2F7,50:BB9AF7,100:1A1B26&text=Abhishek%20Rao&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Backend%20%26%20Systems%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+<img src="./assets/header.svg" width="100%" alt="Abhishek Rao — Backend & Systems Developer" />
 
 <a href="https://github.com/Abhishekrao123-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+web+applications;Designing+clean+APIs+%26+solid+schemas;Writing+smart+contracts+on+Sepolia;Turning+coffee+into+backend+architecture+%E2%98%95" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+web+applications;Designing+clean+APIs+and+solid+schemas;Writing+smart+contracts+on+Sepolia" alt="Typing animation" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://linkedin.com/in/abhishek-rao-7b168032b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhishekraoh410@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Bengaluru%2C%20India-1A1B26?style=for-the-badge&logo=googlemaps&logoColor=7AA2F7" />
-<img src="https://komarev.com/ghpvc/?username=Abhishekrao123-tech&label=Profile%20Views&color=7AA2F7&style=for-the-badge&labelColor=1A1B26" />
+<a href="https://linkedin.com/in/abhishek-rao-7b168032b"><img src="https://cdn.simpleicons.org/linkedin/7AA2F7" height="16" /> LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:abhishekraoh410@gmail.com"><img src="https://cdn.simpleicons.org/gmail/BB9AF7" height="16" /> abhishekraoh410@gmail.com</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Abhishekrao123-tech"><img src="https://cdn.simpleicons.org/github/7DCFFF" height="16" /> GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlemaps/7AA2F7" height="16" /> Bengaluru, India
 
 </div>
 
@@ -140,6 +143,6 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7AA2F7,50:BB9AF7,100:1A1B26&section=footer" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="Footer" />
 
 </div>
