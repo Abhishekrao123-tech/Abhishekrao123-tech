@@ -1,7 +1,12 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Abhishek Rao — Backend & Systems Developer" />
+<a href="https://github.com/Abhishekrao123-tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=54&duration=2500&pause=60000&color=7AA2F7&center=true&vCenter=true&width=700&height=90&lines=Abhishek+Rao" alt="Abhishek Rao" />
+</a>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=60000&color=BB9AF7&center=true&vCenter=true&width=700&height=30&lines=Backend+%26+Systems+Developer" alt="Backend & Systems Developer" />
+<br/>
 
 <a href="https://github.com/Abhishekrao123-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+web+applications;Designing+clean+APIs+and+solid+schemas;Writing+smart+contracts+on+Sepolia" alt="Typing animation" />
@@ -143,6 +148,6 @@ flowchart LR
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Footer" />
+
 
 </div>
