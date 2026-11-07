@@ -7,39 +7,50 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=60000&color=BB9AF7&center=true&vCenter=true&width=700&height=30&lines=Backend+%26+Systems+Developer" alt="Backend & Systems Developer" />
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=C0CAF5&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+applications;Designing+clean+APIs+and+solid+schemas;Writing+smart+contracts+on+Sepolia" alt="Typing animation" />
 
-<a href="https://github.com/Abhishekrao123-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+web+applications;Designing+clean+APIs+and+solid+schemas;Writing+smart+contracts+on+Sepolia" alt="Typing animation" />
-</a>
+<br/><br/>
 
-<br/>
+<a href="https://linkedin.com/in/abhishek-rao-7b168032b"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="34" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:abhishekraoh410@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="34" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Abhishekrao123-tech"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="34" alt="GitHub" /></a>
 
-<a href="https://linkedin.com/in/abhishek-rao-7b168032b"><img src="https://cdn.simpleicons.org/linkedin/7AA2F7" height="16" /> LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:abhishekraoh410@gmail.com"><img src="https://cdn.simpleicons.org/gmail/BB9AF7" height="16" /> abhishekraoh410@gmail.com</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Abhishekrao123-tech"><img src="https://cdn.simpleicons.org/github/7DCFFF" height="16" /> GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlemaps/7AA2F7" height="16" /> Bengaluru, India
+<sub>📍 Bengaluru, India &nbsp;·&nbsp; ✉️ abhishekraoh410@gmail.com</sub>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════ TERMINAL ABOUT ═══════════════ -->
+## 👋 About Me
 
-```ts
-// ~/abhishek/about.ts
-const abhishek = {
-  role:        "Backend & Systems Developer",
-  education:   { college: "BMSIT&M", degree: "B.E. CSE", batch: 2028, cgpa: 8.94 },
-  focus:       ["Backend Architecture", "Databases", "Data Structures", "System Design"],
-  learning:    ["Node.js / Express ecosystem", "Web3 DApps", "Smart contract optimization"],
-  activeIn:    ["Hackathons", "Open Source"],
-  philosophy:  "Ship clean, scale smart, keep it simple.",
-  openTo:      ["Internships", "Collaborations", "Hackathon teams"],
-};
-```
+<table>
+  <tr>
+    <td width="150"><b>🎓 Education</b></td>
+    <td>B.E. Computer Science (2028) at <b>BMSIT&amp;M</b> &nbsp;·&nbsp; CGPA <b>8.94</b></td>
+  </tr>
+  <tr>
+    <td><b>🧠 Focus</b></td>
+    <td>Backend Architecture &nbsp;·&nbsp; Databases &nbsp;·&nbsp; Data Structures &nbsp;·&nbsp; System Design</td>
+  </tr>
+  <tr>
+    <td><b>🌱 Learning</b></td>
+    <td>Node.js / Express ecosystem &nbsp;·&nbsp; Web3 DApps &nbsp;·&nbsp; Smart contract optimization</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Active in</b></td>
+    <td>Hackathons &nbsp;·&nbsp; Open Source</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Open to</b></td>
+    <td>Internships &nbsp;·&nbsp; Collaborations &nbsp;·&nbsp; Hackathon teams</td>
+  </tr>
+  <tr>
+    <td><b>💭 Philosophy</b></td>
+    <td><i>Ship clean, scale smart, keep it simple.</i></td>
+  </tr>
+</table>
 
 ---
 
@@ -61,13 +72,38 @@ flowchart LR
 
 ## 🛠️ Tech Ecosystem
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,solidity,html,css&perline=7&theme=dark" alt="Languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,postman,git,github,vscode,vercel&perline=9&theme=dark" alt="Backend & Tools" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,js,solidity&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; Deploy</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,19 +114,16 @@ flowchart LR
     <td width="50%" valign="top">
       <h3>🎓 CampusPulse Event Portal</h3>
       <p>Full-stack portal with role-based auth, event CRUD, and registration tracking.</p>
-      <img src="https://img.shields.io/badge/Node.js-1A1B26?style=flat-square&logo=nodedotjs&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/Express-1A1B26?style=flat-square&logo=express&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/MySQL-1A1B26?style=flat-square&logo=mysql&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/JWT-1A1B26?style=flat-square&logo=jsonwebtokens&logoColor=7AA2F7" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="36" />
+      <br/><sub><code>JWT</code> auth</sub>
       <br/><br/>
       <a href="https://github.com/Abhishekrao123-tech"><b>View Code ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 EcoStream</h3>
       <p>Renewable energy tracking system with database triggers and automated reporting.</p>
-      <img src="https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/MySQL-1A1B26?style=flat-square&logo=mysql&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/Tkinter-1A1B26?style=flat-square&logoColor=7AA2F7" />
+      <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" height="36" />
+      <br/><sub><code>Tkinter</code> GUI</sub>
       <br/><br/>
       <a href="https://github.com/Abhishekrao123-tech"><b>View Code ↗</b></a>
     </td>
@@ -99,18 +132,15 @@ flowchart LR
     <td width="50%" valign="top">
       <h3>💸 Expense Tracker</h3>
       <p>Financial management app with secure authentication and expense categorization APIs.</p>
-      <img src="https://img.shields.io/badge/Node.js-1A1B26?style=flat-square&logo=nodedotjs&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/Express-1A1B26?style=flat-square&logo=express&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/MySQL-1A1B26?style=flat-square&logo=mysql&logoColor=7AA2F7" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="36" />
       <br/><br/>
       <a href="https://github.com/Abhishekrao123-tech"><b>View Code ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>⛓️ Split Bill DApp</h3>
       <p>Decentralized bill-splitting platform on Sepolia testnet with MetaMask integration.</p>
-      <img src="https://img.shields.io/badge/Solidity-1A1B26?style=flat-square&logo=solidity&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/MetaMask-1A1B26?style=flat-square&logo=metamask&logoColor=7AA2F7" />
-      <img src="https://img.shields.io/badge/Web3-1A1B26?style=flat-square&logo=web3dotjs&logoColor=7AA2F7" />
+      <img src="https://skillicons.dev/icons?i=solidity,js&theme=dark" height="36" />
+      <br/><sub><code>MetaMask</code> · <code>Web3</code></sub>
       <br/><br/>
       <a href="https://github.com/Abhishekrao123-tech"><b>View Code ↗</b></a>
     </td>
@@ -119,16 +149,20 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekrao123-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekrao123-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" />
+<img src="https://img.shields.io/github/followers/Abhishekrao123-tech?style=flat-square&logo=github&logoColor=7AA2F7&color=7AA2F7&labelColor=1A1B26" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Abhishekrao123-tech?affiliations=OWNER&style=flat-square&logo=github&logoColor=BB9AF7&color=BB9AF7&labelColor=1A1B26&label=stars" alt="Stars" />
 
-<img src="https://streak-stats.demolab.com?user=Abhishekrao123-tech&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekrao123-tech&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://ghchart.rshah.org/7AA2F7/Abhishekrao123-tech" alt="Contribution chart" width="90%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhishekrao123-tech&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="Streak stats" />
 
 </div>
 
@@ -145,9 +179,5 @@ flowchart LR
 <div align="center">
 
 <i>“Make it work, make it right, make it fast — in that order.”</i>
-
-<br/><br/>
-
-
 
 </div>
